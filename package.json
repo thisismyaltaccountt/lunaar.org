@@ -1,7 +1,7 @@
 {
-  "name": "lunaar.org",
+  "name": "study.org",
   "version": "5.3.0",
-  "description": "The Future of Unblocked Gaming!",
+  "description": "The future of learning!",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
